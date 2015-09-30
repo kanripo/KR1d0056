@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 月令解
-#+DATE: 2015-09-23 09:38:09
-#+PROPERTY: JUAN 4
+#+DATE: 2015-08-24 22:10:03.596052
+#+PROPERTY: ID KR1d0056
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷四
 <pb:KR1d0056_WYG_004-1a>¶
 欽定四庫全書¶
 　月令解卷四　　　　　　　宋　張虙　撰¶
@@ -170,4 +172,3 @@
 　蝗蟲以温氣而生夏宜熱而温故蝗生也暴風卒然¶
 　之風春多有之夏行春令故有此風草當春則生今¶
 　非時故秀而不實也¶
-

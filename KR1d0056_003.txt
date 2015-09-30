@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 月令解
-#+DATE: 2015-09-23 09:38:09
-#+PROPERTY: JUAN 3
+#+DATE: 2015-08-24 22:10:03.577072
+#+PROPERTY: ID KR1d0056
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷三
 <pb:KR1d0056_WYG_003-1a>¶
 欽定四庫全書¶
 　月令解卷三　　　　　　　宋　張虙　撰¶
@@ -141,4 +143,3 @@
 　勝也陽亢爲旱故雨不降高者暵於熱故山陵之物¶
 　不收季春之時似秋則天氣沈陰非春和時秋有淫¶
 　雨春乃如之兵革之起金氣之應也¶
-

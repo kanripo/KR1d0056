@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 月令解
-#+DATE: 2015-09-23 09:38:09
-#+PROPERTY: JUAN 8
+#+DATE: 2015-08-24 22:10:03.656883
+#+PROPERTY: ID KR1d0056
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷八
 <pb:KR1d0056_WYG_008-1a>¶
 欽定四庫全書¶
 　月令解卷八　　　　　　　宋　張虙　撰¶
@@ -186,4 +188,3 @@
 　未當死而死如冬時夫時正仲秋萬寶告成萬民之¶
 　所説也一失其正則在天之時或旱或風草木將歸¶
 　根復命或生或死所以裁成輔相之道不可不謹也¶
-

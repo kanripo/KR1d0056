@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 月令解
-#+DATE: 2015-09-23 09:38:09
-#+PROPERTY: JUAN 5
+#+DATE: 2015-08-24 22:10:03.610529
+#+PROPERTY: ID KR1d0056
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷五
 <pb:KR1d0056_WYG_005-1a>¶
 欽定四庫全書¶
 　月令解卷五　　　　　　宋　張虙　撰¶
@@ -133,4 +135,3 @@
 　之屬言百者明衆類並爲害蝗起傷穀宜其饑也行¶
 　秋令則仲夏之時似秋此是寒早也草木于夏而零¶
 　落果實于夏而早成氣序不調民宜疫也¶
-

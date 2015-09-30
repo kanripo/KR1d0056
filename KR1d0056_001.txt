@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 月令解
-#+DATE: 2015-09-23 09:38:09
-#+PROPERTY: JUAN 1
+#+DATE: 2015-08-24 22:10:03.550100
+#+PROPERTY: ID KR1d0056
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷一
 <pb:KR1d0056_WYG_001-1a>¶
 欽定四庫全書¶
 　月令解卷一　　　　　　　宋　張虙　撰¶
@@ -263,4 +265,3 @@
 　積隂所成春尚有之所以敗物或時降霜或時降雪¶
 　此皆冬之物也摯猶至也首種非止一物首種如今¶
 　人言發頭布種之初也不入謂不入土葢氣寒也¶
-

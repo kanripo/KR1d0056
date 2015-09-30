@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 月令解
-#+DATE: 2015-09-23 09:38:09
-#+PROPERTY: JUAN 6
+#+DATE: 2015-08-24 22:10:03.625245
+#+PROPERTY: ID KR1d0056
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷六
 <pb:KR1d0056_WYG_006-1a>¶
 欽定四庫全書¶
 　月令解卷六　　　　　　　宋　張虙　撰¶
@@ -146,4 +148,3 @@
 　中央食當方之榖畜亦異於他時也器圜者象土周¶
 　帀於四時閎者取其髙廣(案殷路之制以下七十有/八字原本誤在仲秋之末)¶
 　(今移/於此)¶
-

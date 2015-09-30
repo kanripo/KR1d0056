@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 月令解
-#+DATE: 2015-09-23 09:38:09
-#+PROPERTY: JUAN 11
+#+DATE: 2015-08-24 22:10:03.705757
+#+PROPERTY: ID KR1d0056
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷十一
 <pb:KR1d0056_WYG_011-1a>¶
 欽定四庫全書¶
 　月令解卷十一　　　　　　宋　張虙　撰¶
@@ -143,4 +145,3 @@
 　具孟月行秋令則有小兵仲月行秋令則有大兵皆¶
 　金氣勝也行春令則仲冬之時似春蝗蟲之災與孟¶
 　夏同水泉之竭陰氣弱也疥癘虛陽作之也¶
-
